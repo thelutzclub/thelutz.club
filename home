@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Lutz Club</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8f8f8;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to The Lutz Club!</h1>
+    <p>This is our family’s website, hosted on GitHub Pages.</p>
+    <footer>
+        <p>&copy; 2025 The Lutz Club. All rights reserved.</p>
+    </footer>
+</body>
+</html>
