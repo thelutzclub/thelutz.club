@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Willie's Profile</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .profile-container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .profile-container img {
+            border-radius: 50%;
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            margin-bottom: 20px;
+        }
+
+        .profile-container h2 {
+            color: #0056b3;
+        }
+
+        .profile-container p {
+            color: #555;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        .profile-container ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .profile-container ul li {
+            background-color: #f5f5f5;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <img src="images/willie.jpg" alt="Photo of Willie">
+        <h2>Willie the Poodle</h2>
+        <p>Willie is a beloved standard poodle who brings joy, love, and endless cuddles to the Lutz family. He's known for his adventurous spirit, fluffy coat, and playful personality.</p>
+        <h3>Quick Facts</h3>
+        <ul>
+            <li><strong>Breed:</strong> Standard Poodle</li>
+            <li><strong>Color:</strong> White</li>
+            <li><strong>Favorite Activity:</strong> Running and playing fetch</li>
+            <li><strong>Age:</strong> 2 years</li>
+        </ul>
+    </div>
+</body>
+</html>
